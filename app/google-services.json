@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463081246703",
+    "project_id": "fir-posifood-e26f5",
+    "storage_bucket": "fir-posifood-e26f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463081246703:android:9a6cc645d4f5bdfad6f01a",
+        "android_client_info": {
+          "package_name": "br.com.up.posifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463081246703-os8rpau8is6ls7holccmdmb2sjjld36q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ0FhPdAsYijbjZSB1RwewiKLZZkDk_Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463081246703-os8rpau8is6ls7holccmdmb2sjjld36q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
